@@ -1,5 +1,6 @@
 # Emogif
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/404c3c08-e36d-49ea-b13b-ca539604aaff/deploy-status)](https://app.netlify.com/sites/emogif-jbn/deploys)
 emojis into gif, just as the repo name states
 
 ## Prerequisites
