@@ -41,6 +41,6 @@ To contribute, follow these steps:
 
 ## Contact
 
-Please use the [issues]() section to list down your queries. We will get back to you as soon as possible.
+Please use the [issues](https://github.com/JohnNixon6972/Emogif/issues) section to list down your queries. We will get back to you as soon as possible.
 
 **Have a great day :)**
